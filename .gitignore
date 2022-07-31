@@ -1,0 +1,6 @@
+/.idea/
+/target/
+/src/test/
+/target/classes/
+/target/classes/org/
+/target/classes/org/example/
